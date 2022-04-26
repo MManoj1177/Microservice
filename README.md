@@ -1,1 +1,1 @@
-# Microservice
+# opentelemetry-demo-webstore
